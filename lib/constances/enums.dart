@@ -1,0 +1,1 @@
+enum TasksType { done, notDone }
